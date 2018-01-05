@@ -2,7 +2,7 @@
 Contains list of programs to experiment Pandas package and other Python packages. These programs were written using Jupyter Notebook. 
 The data sources for testing these programs were taken from https://github.com/chendaniely/2016-pydata-carolinas-pandas
 
-## panda-basics-01.ipynb
+## [panda-basics-01.ipynb](python/panda-basics-01.ipynb)
 Use Pandas dataframe to the contents of a .csv file and observe various properties.
 
 ## pandas-concat-demo.ipynb
