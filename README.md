@@ -11,8 +11,8 @@ Lists the directory contents from "data" folder to identify files having naming 
 ## pandas-filter-agg-ops-demo.ipynb
 Demostrates different operations like filtering and aggregation operations like group by, count functions using the dataset survey_visited.csv and to answer questions like: 
 1. Number of times a site has been visited
-2. Site that has been first visited (yet to complete)
-3. Site that has been last visited (yet to complete)
+2. Site that has been first visited 
+3. Site that has been last visited 
 4. How many times a site has been visited in a given year (yet to complete)
 
 # License
